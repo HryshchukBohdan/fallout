@@ -6,6 +6,7 @@ $c = rand(1, 10);
 $i = rand(1, 10);
 $a = rand(1, 10);
 $l = rand(1, 10);
+//aa
 
 $special = array("Strength" => $s, "Perception" => $p, "Endurance" => $e, "Charisma" => $c, "Intelligence" => $i, "Agility" => $a, "Luck" => $l);
 
